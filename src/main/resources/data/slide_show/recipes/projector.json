@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XYX",
+    "X X",
+    "AAA"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:iron_ingot"
+    },
+    "A": {
+      "item": "minecraft:obsidian"
+    },
+    "Y": {
+      "item": "minecraft:ender_eye"
+    }
+  },
+  "result": {
+    "item": "slide_show:projector"
+  }
+}
