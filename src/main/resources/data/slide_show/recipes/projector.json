@@ -3,17 +3,17 @@
   "pattern": [
     "XYX",
     "X X",
-    "AAA"
+    "ZZZ"
   ],
   "key": {
     "X": {
       "item": "minecraft:iron_ingot"
     },
-    "A": {
-      "item": "minecraft:obsidian"
-    },
     "Y": {
       "item": "minecraft:ender_eye"
+    },
+    "Z": {
+      "item": "minecraft:obsidian"
     }
   },
   "result": {
